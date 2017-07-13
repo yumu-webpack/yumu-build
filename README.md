@@ -1,2 +1,2 @@
-# yumu-install
-yumu install the dependencies
+# yumu-build
+yumu build the project
